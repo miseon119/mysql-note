@@ -48,3 +48,4 @@ mysql> show variables like "%version%";
 mysql> SET PASSWORD FOR 'root'@'localhost' = PASSWORD('newpassword');
 ```
 
+[more](https://velog.io/@seungsang00/Ubuntu-%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90-MySQL-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
