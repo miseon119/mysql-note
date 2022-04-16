@@ -16,3 +16,9 @@ CREATE TABLE Test
     RoomNum INT
 );
 ```
+
+## INSERT 
+
+```mysql
+INSERT INTO TESTDB.inferjob VALUES (3, 2, 2, 'first', 'second', 2);
+```
